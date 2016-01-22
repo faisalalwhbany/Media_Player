@@ -1,0 +1,38 @@
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\bin\Debug\Skin.dll
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\bin\Debug\Skin.pdb
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.About.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.SFplayer.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Form2.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.helpe.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Loop.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.PraysTimes.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Properties.Resources.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Reso.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.screenshootDialog.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.csproj.GenerateResource.Cache
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.VISTA_Track.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\bin\Debug\FirePlayer.exe.config
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\bin\Debug\FirePlayer.exe
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\bin\Debug\FirePlayer.pdb
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.exe
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.pdb
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\bin\Debug\FirePlayer.exe.config
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\bin\Debug\FirePlayer.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\bin\Debug\FirePlayer.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\bin\Debug\Skin.dll
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\bin\Debug\Skin.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.About.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.SFplayer.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Form2.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.helpe.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Loop.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.PraysTimes.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Properties.Resources.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.Reso.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.screenshootDialog.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\SmartFplayer.VISTA_Track.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\Media_Player  by MCI\Media_Player\obj\x86\Debug\FirePlayer.csproj.GenerateResource.Cache

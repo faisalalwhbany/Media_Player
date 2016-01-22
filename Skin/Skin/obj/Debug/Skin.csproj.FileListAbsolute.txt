@@ -1,0 +1,29 @@
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\bin\Debug\Skin.dll
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\bin\Debug\Skin.pdb
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\obj\Debug\Skin.dll
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\obj\Debug\Skin.pdb
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\obj\Debug\Skin.Resou.resources
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\فيصل الوهباني\documents\visual studio 2010\Projects\Skin\Skin\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Faisal AL_whbany\Desktop\Media_Player  with skin\Skin\Skin\bin\Debug\Skin.dll
+C:\Users\Faisal AL_whbany\Desktop\Media_Player  with skin\Skin\Skin\bin\Debug\Skin.pdb
+C:\Users\Faisal AL_whbany\Desktop\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.Resou.resources
+C:\Users\Faisal AL_whbany\Desktop\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.csproj.GenerateResource.Cache
+C:\Users\Faisal AL_whbany\Desktop\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.dll
+C:\Users\Faisal AL_whbany\Desktop\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.pdb
+C:\Users\Faisal AL_whbany\Desktop\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.csprojResolveAssemblyReference.cache
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  with skin\Skin\Skin\bin\Debug\Skin.dll
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  with skin\Skin\Skin\bin\Debug\Skin.pdb
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.csprojResolveAssemblyReference.cache
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.Resou.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.csproj.GenerateResource.Cache
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.dll
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  with skin\Skin\Skin\obj\Debug\Skin.pdb
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Skin\Skin\bin\Debug\Skin.dll
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Skin\Skin\bin\Debug\Skin.pdb
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Skin\Skin\obj\Debug\Skin.csprojResolveAssemblyReference.cache
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Skin\Skin\obj\Debug\Skin.Resou.resources
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Skin\Skin\obj\Debug\Skin.csproj.GenerateResource.Cache
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Skin\Skin\obj\Debug\Skin.dll
+C:\Users\Faisal AL whbany\Documents\Visual Studio 2012\Projects\Media_Player  by MCI\Skin\Skin\obj\Debug\Skin.pdb

@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2D11E387-1971-426E-9C51-4052D674C1F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartFplayer</RootNamespace>
+    <AssemblyName>FirePlayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Skin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Skin\Skin\bin\Debug\Skin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="API.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fplayer.cs" />
+    <Compile Include="helpe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="helpe.Designer.cs">
+      <DependentUpon>helpe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ID3.cs" />
+    <Compile Include="ID3\Collection.cs" />
+    <Compile Include="ID3\Enumerations.cs" />
+    <Compile Include="ID3\FileStreamEx.cs" />
+    <Compile Include="ID3\FramesInfo.cs" />
+    <Compile Include="ID3\frame\ArrayFrames.cs" />
+    <Compile Include="ID3\frame\BinaryFrame.cs" />
+    <Compile Include="ID3\frame\Other.cs" />
+    <Compile Include="ID3\frame\StreamFrames.cs" />
+    <Compile Include="ID3\frame\TextFrame.cs" />
+    <Compile Include="ID3\ID3Error.cs" />
+    <Compile Include="ID3\ID3v1.cs" />
+    <Compile Include="ID3\ID3v2.cs" />
+    <Compile Include="ID3\ID3v2Frames namespace.cs" />
+    <Compile Include="ID3\Main.cs" />
+    <Compile Include="Loop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loop.Designer.cs">
+      <DependentUpon>Loop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PraysTimes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PraysTimes.Designer.cs">
+      <DependentUpon>PraysTimes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reso.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reso.resx</DependentUpon>
+    </Compile>
+    <Compile Include="screenshootDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screenshootDialog.Designer.cs">
+      <DependentUpon>screenshootDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="SkinTrackbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SkinTrackbar.Designer.cs">
+      <DependentUpon>SkinTrackbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrackBarRound.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Win32.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="helpe.resx">
+      <DependentUpon>helpe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loop.resx">
+      <DependentUpon>Loop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PraysTimes.resx">
+      <DependentUpon>PraysTimes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reso.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Reso.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screenshootDialog.resx">
+      <DependentUpon>screenshootDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkinTrackbar.resx">
+      <DependentUpon>SkinTrackbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\helpFile.RTF" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="albumes.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="icon2~1.ico" />
+    <None Include="Resources\profile.jpg" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\facebook.png" />
+    <None Include="Resources\التقاط.PNG" />
+    <None Include="Resources\iconsmol.ico" />
+    <None Include="Resources\icon.ico" />
+    <None Include="Resources\login1.png" />
+    <None Include="Resources\open1.png" />
+    <None Include="Resources\open2.png" />
+    <None Include="Resources\stop2.png" />
+    <None Include="Resources\stop1.png" />
+    <None Include="Resources\prev2.png" />
+    <None Include="Resources\prev1.png" />
+    <None Include="Resources\play2.png" />
+    <None Include="Resources\play1.png" />
+    <None Include="Resources\pause2.png" />
+    <None Include="Resources\pause1.png" />
+    <None Include="Resources\next2.png" />
+    <None Include="Resources\next1.png" />
+    <None Include="Resources\hid.png" />
+    <None Include="Resources\lockun.png" />
+    <None Include="Resources\lock_ho.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\sho.png" />
+    <None Include="Resources\sho_hov.png" />
+    <None Include="Resources\hid_hov.png" />
+    <None Include="Resources\lockun_hov.png" />
+    <None Include="Resources\pp2.png" />
+    <None Include="Resources\list2.png" />
+    <None Include="Resources\list1.png" />
+    <None Include="Resources\NoLoop.png" />
+    <None Include="Resources\loop1Hover.png" />
+    <None Include="Resources\loop1.png" />
+    <None Include="Resources\NoLoopHover.png" />
+    <None Include="Resources\loop2.png" />
+    <None Include="Resources\captur2.png" />
+    <None Include="Resources\captur1.png" />
+    <None Include="Resources\act.png" />
+    <None Include="Resources\noActiv.png" />
+    <None Include="Resources\noact2.png" />
+    <None Include="Resources\actover.png" />
+    <None Include="Resources\activover.png" />
+    <None Include="Resources\Activ.png" />
+    <None Include="Resources\noactover.png" />
+    <None Include="Resources\noactivover2.png" />
+    <None Include="Resources\BTN_Thumb_Blue.gif" />
+    <None Include="Resources\movie_track_back.png" />
+    <None Include="Resources\sound_track_back.png" />
+    <None Include="Resources\TRACK_Thumb.png" />
+    <None Include="Resources\MaxmizeHot2.png" />
+    <None Include="Resources\maximizePressed2.png" />
+    <None Include="Resources\MaximizeHot.png" />
+    <None Include="Resources\Maximize2.png" />
+    <None Include="Resources\Maximize.png" />
+    <None Include="Resources\maxclick.png" />
+    <None Include="Resources\MinimizePressed.png" />
+    <None Include="Resources\MinimizeHot.png" />
+    <None Include="Resources\Minimize.png" />
+    <None Include="Resources\ClosePressed.png" />
+    <None Include="Resources\CloseHot.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="bin\Debug\button\Vou1.png" />
+    <None Include="Resources\Vou3.png" />
+    <None Include="Resources\Vou2.png" />
+    <None Include="Resources\Vou1.png" />
+    <None Include="Resources\Vou4.png" />
+    <None Include="Resources\Muzyka - eto zhizn.gif" />
+    <None Include="Resources\Image1.gif" />
+    <None Include="bin\Debug\button\11.png" />
+    <None Include="bin\Debug\button\12.png" />
+    <None Include="bin\Debug\button\al-maystro %2837%29~1.ico" />
+    <None Include="bin\Debug\button\back20.png" />
+    <None Include="bin\Debug\button\back22.png" />
+    <None Include="bin\Debug\button\full2.png" />
+    <None Include="bin\Debug\button\next2.png" />
+    <None Include="bin\Debug\button\next3.png" />
+    <None Include="bin\Debug\button\pp1.png" />
+    <None Include="bin\Debug\button\pp2.png" />
+    <None Include="bin\Debug\button\pp3.png" />
+    <None Include="bin\Debug\button\stop2.png" />
+    <None Include="bin\Debug\button\About.png" />
+    <None Include="bin\Debug\button\stop.png" />
+    <None Include="bin\Debug\button\full.png" />
+    <None Include="bin\Debug\button\next1.png" />
+    <None Include="bin\Debug\button\back21.png" />
+    <None Include="bin\Debug\button\13.png" />
+    <None Include="bin\Debug\button\controlPanel.png" />
+    <None Include="bin\Debug\button\back1.png" />
+    <None Include="bin\Debug\button\forw1.png" />
+    <None Include="bin\Debug\button\2.png" />
+    <None Include="bin\Debug\pic\controlPanel.png" />
+    <None Include="bin\Debug\pic\1.png" />
+    <None Include="bin\Debug\pic\next_down_small.bmp" />
+    <None Include="bin\Debug\pic\next_up_small.bmp" />
+    <None Include="bin\Debug\pic\next_up.bmp" />
+    <None Include="bin\Debug\pic\prev_up.bmp" />
+    <None Include="bin\Debug\pic\Search Computer.png" />
+    <None Include="bin\Debug\pic\open_down.bmp" />
+    <None Include="bin\Debug\pic\play_up_medium.bmp" />
+    <None Include="bin\Debug\pic\play_down_medium.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
